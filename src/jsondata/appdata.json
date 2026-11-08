@@ -1,0 +1,39 @@
+{
+    "students": [
+        {
+            "fname": "dinga",
+            "lname": " raja",
+            "age": 30,
+            "degree": "BE",
+            "place": "goa"
+        },
+        {
+            "fname": "dingi",
+            "lname": " rani",
+            "age": 28,
+            "degree": "BE",
+            "place": "goa"
+        },
+        {
+            "fname": "dingu",
+            "lname": " raju",
+            "age": 24,
+            "degree": "BE",
+            "place": "goa"
+        },
+        {
+            "fname": "soma",
+            "lname": " raja",
+            "age": 22,
+            "degree": "BSC",
+            "place": "mumbai"
+        },
+        {
+            "fname": "somu",
+            "lname": " raju",
+            "age": 24,
+            "degree": "BSC",
+            "place": "mumbai"
+        }
+    ]
+}
