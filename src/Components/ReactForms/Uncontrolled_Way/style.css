@@ -1,0 +1,44 @@
+.react-froms{
+    
+    
+    
+    h1{
+        text-align: center;
+        background-color: lightblue;
+        color: blueviolet;
+    }
+    .form-box{
+        
+        border: 2px solid black;
+        margin: 100px;
+        padding: 10px;
+        background-color: lightgrey;
+        width: 30%;
+        height: 70vh;
+        align-items: center;
+        
+        
+    
+        input{
+            display: block;
+            width: 90%;
+            height: 10vh;
+            padding: 10px;
+            margin: 20px;
+            border-radius: 5px;
+        }
+        button{
+            width: 30%;
+            background: rgb(116, 116, 198);
+            border-radius: 5px;
+            align-items: center;
+            
+            height: 5vh;
+            
+
+        }
+}
+
+    
+
+}
