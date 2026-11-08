@@ -1,0 +1,34 @@
+.react-forms{
+    h1{
+        text-align: center;
+        background-color: lightcoral;
+        height: 40px;
+    }
+    .form-box{
+        text-align: center;
+        width: 30%;
+        margin-top: 5%;
+        margin-left: 35%;
+        padding: 20px;
+        border: 2px solid black;
+        border-radius: 10px;
+        
+        input{
+            text-align: center;
+            display: block;
+            width: 90%;
+            justify-items: center;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+            
+        }
+        button{
+            
+            padding: 10px;
+            border-radius: 5px;
+            margin: 20px 80px;
+
+        }
+    }
+}
