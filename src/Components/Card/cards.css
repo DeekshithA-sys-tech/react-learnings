@@ -1,0 +1,43 @@
+.cards{
+    h1{
+        text-align: center;
+        color:red;
+    }
+    
+}
+
+.container{
+    margin: 5vh auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 10vh;
+    column-gap: 2vw;
+    text-align: center;
+    .card{
+        border: solid 1px black;
+        width: 250px;
+        border-radius: 10%;
+        /* opacity: .5; */
+        transition: all .5s;
+        img{
+            height: 50%;
+            width: 90%;
+            border-radius: 10%;
+            margin: 2vh;
+        }
+        .title{
+            font-weight: bold;
+            font-size: large;
+            text-transform: uppercase;
+        }
+        .description{
+           
+            color: brown;
+        }
+    }
+    .card:hover{
+        opacity: 1;
+        transform: scale(1.05);
+    }
+}
