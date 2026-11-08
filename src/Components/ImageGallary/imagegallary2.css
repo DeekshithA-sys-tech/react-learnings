@@ -1,0 +1,13 @@
+.image-gallary2{
+
+    .cointainer{
+
+        img{
+           width: 300px;
+           height: 200px;
+           margin: 10px auto;
+        }
+
+    }
+    
+}
