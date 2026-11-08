@@ -1,0 +1,46 @@
+
+.todo{
+    margin: 20px;
+    border: 2px solid black;
+    h1{
+        color: aqua;
+        text-align: center;
+        background-color: #724e4e;
+    }
+    
+    .container{
+        margin: 20px;
+        form{
+            input{
+                text-align: center;
+                margin: 0px 20% 20px 20px;
+                width: 40%;
+                height: 40px;
+                border: 2px solid black;
+                border-radius: 5px;
+                font-size: large;
+            }
+            button{
+                height: 40px;
+                width: 8rem;
+                border: 2px solid black;
+                border-radius: 20px;
+            }
+        }
+    }
+   
+    .task{
+        margin: 20px;
+        width: 90%; 
+        padding: 10px;
+         border: 2px solid black;
+        li{
+            margin: 0px 20px 0px  20px;
+            width: 60%; 
+        }
+        botton{
+            width: 20%;
+        }
+    }
+    
+}
